@@ -19,6 +19,7 @@ class MyTasksMaterialApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'My Tasks Material App',
       theme: ThemeData(
           // This is the theme of your application.
