@@ -3,4 +3,4 @@
 
 ### Screenshot📸
 
-<img src=" assets/task.png">
+<img src="assets/task.png">
